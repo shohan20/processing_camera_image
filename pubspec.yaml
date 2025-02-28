@@ -33,8 +33,6 @@ flutter:
       android:
         package: vn.thuanpm.processing_camera_image
         pluginClass: ProcessingCameraImagePlugin
-      ios:
-        pluginClass: ProcessingCameraImagePlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
